@@ -1,7 +1,12 @@
 const express = require("express");
 const app = express();
+const cors = require("cors");
 const port = process.env.PORT || 3000;
 const information = require("./data/information.json");
+
+
+
+app.use(cors());
 
 app.get("/", (req, res) => {
   res.send("this custom server is running well");
