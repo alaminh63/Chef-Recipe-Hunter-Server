@@ -2,77 +2,80 @@
   {
     "id": "CHEF1",
     "name": "Suvir Saran",
-    "bannerUrl": "https://example.com/suvir-banner.jpg",
+    "bannerUrl": "https://images.pexels.com/photos/2474661/pexels-photo-2474661.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "profileUrl": "https://example.com/suvir-profile.jpg",
     "likes": 1200,
     "experienceYears": 25,
     "shortBio": "Award-winning Indian chef based in New York City.",
-    "recipes": {
-      "recipes1": {
+    "numberOfRecipes": 1776,
+    "recipes": [
+      {
         "recipeName": "Chicken Tikka Masala",
         "cookingMethod": "Grilling",
         "foodRanking": 9.5,
         "ingredients": ["chicken", "yogurt", "spices", "tomato sauce", "cream"]
       },
-      "recipes2": {
+      {
         "recipeName": "Saag Paneer",
         "cookingMethod": "Stovetop",
         "foodRanking": 8.9,
         "ingredients": ["spinach", "paneer", "spices", "onion", "tomatoes"]
       },
-      "recipes3": {
+      {
         "recipeName": "Naan",
         "cookingMethod": "Baking",
         "foodRanking": 9.1,
         "ingredients": ["flour", "yeast", "sugar", "butter", "milk"]
       }
-    }
+    ]
   },
   {
     "id": "CHEF2",
     "name": "Sanjeev Kapoor",
-    "bannerUrl": "https://example.com/sanjeev-banner.jpg",
+    "bannerUrl": "https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "profileUrl": "https://example.com/sanjeev-profile.jpg",
     "likes": 2500,
     "experienceYears": 30,
     "shortBio": "Celebrity Indian chef and entrepreneur.",
-    "recipes": {
-      "recipes1": {
+    "numberOfRecipes": 1346,
+    "recipes": [
+      {
         "recipeName": "Butter Chicken",
         "cookingMethod": "Stovetop",
         "foodRanking": 9.7,
         "ingredients": ["chicken", "butter", "spices", "tomato sauce", "cream"]
       },
-      "recipes2": {
+      {
         "recipeName": "Biryani",
         "cookingMethod": "Pressure Cooking",
         "foodRanking": 8.8,
         "ingredients": ["rice", "chicken", "spices", "onion", "tomatoes"]
       },
-      "recipes3": {
+      {
         "recipeName": "Rasmalai",
         "cookingMethod": "Boiling",
         "foodRanking": 9.3,
         "ingredients": ["milk", "sugar", "cardamom", "pistachios", "saffron"]
       }
-    }
+    ]
   },
   {
     "id": "CHEF3",
     "name": "Vikas Khanna",
-    "bannerUrl": "https://example.com/vikas-banner.jpg",
+    "bannerUrl": "https://images.pexels.com/photos/2474658/pexels-photo-2474658.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "profileUrl": "https://example.com/vikas-profile.jpg",
     "likes": 3500,
     "experienceYears": 20,
     "shortBio": "Michelin-starred Indian chef and cookbook author.",
-    "recipes": {
-      "recipes1": {
+    "numberOfRecipes": 1256,
+    "recipes": [
+      {
         "recipeName": "Palak Paneer",
         "cookingMethod": "Stovetop",
         "foodRanking": 9.5,
         "ingredients": ["spinach", "paneer", "spices", "onion", "tomatoes"]
       },
-      "recipes2": {
+      {
         "recipeName": "Aloo Gobi",
         "cookingMethod": "Stovetop",
         "foodRanking": 8.9,
@@ -84,7 +87,7 @@
           "tomatoes"
         ]
       },
-      "recipes3": {
+      {
         "recipeName": "Gulab Jamun",
         "cookingMethod": "Frying",
         "foodRanking": 9.1,
@@ -96,59 +99,61 @@
           "rose water"
         ]
       }
-    }
+    ]
   },
   {
     "id": "CHEF4",
     "name": "Madhur Jaffrey",
-    "bannerUrl": "https://example.com/madhur-banner.jpg",
+    "bannerUrl": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "profileUrl": "https://example.com/madhur-profile.jpg",
     "likes": 1500,
     "experienceYears": 40,
     "shortBio": "Award-winning actress, cookbook author, and television personality.",
-    "recipes": {
-      "recipes1": {
+    "numberOfRecipes": 2458,
+    "recipes": [
+      {
         "recipeName": "Chana Masala",
         "cookingMethod": "Stovetop",
         "foodRanking": 9.6,
         "ingredients": ["chickpeas", "spices", "onion", "tomatoes"]
       },
-      "recipes2": {
+      {
         "recipeName": "Vindaloo",
         "cookingMethod": "Stovetop",
         "foodRanking": 8.7,
         "ingredients": ["pork", "spices", "vinegar", "garlic", "ginger"]
       },
-      "recipes3": {
+      {
         "recipeName": "Gajar Halwa",
         "cookingMethod": "Stovetop",
         "foodRanking": 9.2,
         "ingredients": ["carrots", "milk", "sugar", "cardamom", "nuts"]
       }
-    }
+    ]
   },
   {
     "id": "CHEF5",
     "name": "Vikas Khanna",
-    "bannerUrl": "https://example.com/vikas-banner.jpg",
+    "bannerUrl": "https://images.pexels.com/photos/958546/pexels-photo-958546.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "profileUrl": "https://example.com/vikas-profile.jpg",
     "likes": 3100,
     "experienceYears": 20,
     "shortBio": "Michelin-starred chef and restaurateur known for his fusion cuisine.",
-    "recipes": {
-      "recipes1": {
+    "numberOfRecipes": 3776,
+    "recipes": [
+      {
         "recipeName": "Chicken Curry",
         "cookingMethod": "Stovetop",
         "foodRanking": 9.2,
         "ingredients": ["chicken", "onion", "tomato", "spices", "coconut milk"]
       },
-      "recipes2": {
+      {
         "recipeName": "Samosas",
         "cookingMethod": "Frying",
         "foodRanking": 8.5,
         "ingredients": ["potatoes", "peas", "spices", "flour", "oil"]
       },
-      "recipes3": {
+      {
         "recipeName": "Gulab Jamun",
         "cookingMethod": "Frying",
         "foodRanking": 9,
@@ -160,24 +165,25 @@
           "rose water"
         ]
       }
-    }
+    ]
   },
   {
     "id": "CHEF6",
     "name": "Tarla Dalal",
-    "bannerUrl": "https://example.com/tarla-banner.jpg",
+    "bannerUrl": "https://images.pexels.com/photos/1600711/pexels-photo-1600711.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "profileUrl": "https://example.com/tarla-profile.jpg",
     "likes": 4800,
     "experienceYears": 40,
     "shortBio": "Pioneer of vegetarian Indian cooking and author of over 100 cookbooks.",
-    "recipes": {
-      "recipes1": {
+    "numberOfRecipes": 786,
+    "recipes": [
+      {
         "recipeName": "Palak Paneer",
         "cookingMethod": "Stovetop",
         "foodRanking": 9.4,
         "ingredients": ["spinach", "paneer", "spices", "tomato", "cream"]
       },
-      "recipes2": {
+      {
         "recipeName": "Aloo Gobi",
         "cookingMethod": "Stovetop",
         "foodRanking": 8.7,
@@ -189,12 +195,12 @@
           "coriander"
         ]
       },
-      "recipes3": {
+      {
         "recipeName": "Raita",
         "cookingMethod": "Mixing",
         "foodRanking": 8.9,
         "ingredients": ["yogurt", "cucumber", "mint", "coriander", "spices"]
       }
-    }
+    ]
   }
 ]
