@@ -3,7 +3,7 @@
     "id": "CHEF1",
     "name": "Suvir Saran",
     "bannerUrl": "https://images.pexels.com/photos/2474661/pexels-photo-2474661.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "profileUrl": "https://example.com/suvir-profile.jpg",
+    "profileUrl": "https://images.pexels.com/photos/4253298/pexels-photo-4253298.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "likes": 1200,
     "experienceYears": 25,
     "shortBio": "Award-winning Indian chef based in New York City.",
@@ -11,19 +11,22 @@
     "recipes": [
       {
         "recipeName": "Chicken Tikka Masala",
-        "cookingMethod": "Grilling",
+        "recipesImage": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/masala-chicken-with-herb-chutney-and-mint-raita-india-great-stock.jpg",
+        "cookingMethod": "Rinse the baingan (eggplant or aubergine) in water. Pat dry with a kitchen napkin. Apply some oil all over and keep it for roasting on an open flame. You can also grill the baingan or roast in the oven. But then you won't get the the flame, so that its evenly cooked. You or garnish it with them. Serve Baingan Bharta with phulkas, rotis or chapatis.",
         "foodRanking": 9.5,
         "ingredients": ["chicken", "yogurt", "spices", "tomato sauce", "cream"]
       },
       {
         "recipeName": "Saag Paneer",
-        "cookingMethod": "Stovetop",
+        "recipesImage": "https://render.fineartamerica.com/images/rendered/default/greeting-card/images/artworkimages/medium/2/saag-paneer-fried-cheese-on-spinach-india-sandhya-hariharan.jpg?&targetx=0&targety=-25&imagewidth=500&imageheight=750&modelwidth=500&modelheight=700&backgroundcolor=DFE0E0&orientation=1",
+        "cookingMethod": "In a bowl, mash the banana with a fork until it resembles a thick purée. Stir in the eggs, baking powder and vanilla. Heat a large non-stick frying pan or pancake pan over a medium heat and brush with half the oil. Using half the batter, spoon two pancakes into the pan, cook for 1-2 mins each side, then tip onto a plate. Repeat the process with the.",
         "foodRanking": 8.9,
         "ingredients": ["spinach", "paneer", "spices", "onion", "tomatoes"]
       },
       {
         "recipeName": "Naan",
-        "cookingMethod": "Baking",
+        "recipesImage": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/an-arrangement-of-naan-bread-eising-studio-food-photo-video.jpg",
+        "cookingMethod": "Heat the olive oil in a heavy-based pan and add the onion and carrot. Cook for 3- 4 mins until softened. Add the diced lamb and brown all over. Stir in the garlic and all the spices and cook for a few mins more or until the aromas are released. Add the honey and apricots, crumble in the stock cube and pour over roughly 500ml boiling water or.",
         "foodRanking": 9.1,
         "ingredients": ["flour", "yeast", "sugar", "butter", "milk"]
       }
@@ -33,7 +36,7 @@
     "id": "CHEF2",
     "name": "Sanjeev Kapoor",
     "bannerUrl": "https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "profileUrl": "https://example.com/sanjeev-profile.jpg",
+    "profileUrl": "https://images.pexels.com/photos/8629122/pexels-photo-8629122.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "likes": 2500,
     "experienceYears": 30,
     "shortBio": "Celebrity Indian chef and entrepreneur.",
@@ -41,19 +44,22 @@
     "recipes": [
       {
         "recipeName": "Butter Chicken",
-        "cookingMethod": "Stovetop",
+        "recipesImage": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/chicken-tikka-with-rice-and-chicken-breast-with-asian-vegetables-moore-hilary.jpg",
+        "cookingMethod": "Rinse the baingan (eggplant or aubergine) in water. Pat dry with a kitchen napkin. Apply some oil all over and keep it for roasting on an open flame. You can also grill the baingan or roast in the oven. But then you won't get the smoky flavor of the baingan. Keep the eggplant turning after a 2 to 3 minutes on the flame, so that its evenly cooked. You .",
         "foodRanking": 9.7,
         "ingredients": ["chicken", "butter", "spices", "tomato sauce", "cream"]
       },
       {
         "recipeName": "Biryani",
-        "cookingMethod": "Pressure Cooking",
+        "recipesImage": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/chicken-and-vegetable-biryani-india-mackevicius-ashley.jpg",
+        "cookingMethod": "In a bowl, mash the banana with a fork until it resembles a thick purée. Stir in the eggs, baking powder and vanilla. Heat a large non-stick frying pan or pancake pan over a medium heat and brush with half the oil. Using half the batter, spoon two pancakes into the pan, cook for 1-2 mins each side, then tip onto a plate. Repeat the process with the.",
         "foodRanking": 8.8,
         "ingredients": ["rice", "chicken", "spices", "onion", "tomatoes"]
       },
       {
         "recipeName": "Rasmalai",
-        "cookingMethod": "Boiling",
+        "recipesImage": "https://i0.wp.com/blendofspicesbysara.com/wp-content/uploads/2021/06/PXL_20210611_174200998.PORTRAIT-01.jpeg?w=800&ssl=1",
+        "cookingMethod": "Heat the olive oil in a heavy-based pan and add the onion and carrot. Cook for 3- 4 mins until softened. Add the diced lamb and brown all over. Stir in the garlic and all the spices and cook for a few mins more or until the enough to cover the meat. Give it a good stir and bring to the boil. Turn down to a simmer, put the lid on and cook for 1 hour.",
         "foodRanking": 9.3,
         "ingredients": ["milk", "sugar", "cardamom", "pistachios", "saffron"]
       }
@@ -61,9 +67,9 @@
   },
   {
     "id": "CHEF3",
-    "name": "Vikas Khanna",
+    "name": "Yash Richa",
     "bannerUrl": "https://images.pexels.com/photos/2474658/pexels-photo-2474658.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "profileUrl": "https://example.com/vikas-profile.jpg",
+    "profileUrl": "https://images.pexels.com/photos/14885422/pexels-photo-14885422.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "likes": 3500,
     "experienceYears": 20,
     "shortBio": "Michelin-starred Indian chef and cookbook author.",
@@ -71,13 +77,15 @@
     "recipes": [
       {
         "recipeName": "Palak Paneer",
-        "cookingMethod": "Stovetop",
+        "recipesImage": "https://www.indianhealthyrecipes.com/wp-content/uploads/2023/02/paneer-curry-recipe.jpg",
+        "cookingMethod": "Rinse the baingan (eggplant or aubergine) in water. Pat dry with a kitchen napkin. Apply some oil all over and keep it for roasting on an open flame. You can also grill the baingan or roast in the oven. But then you won't get the the flame, so that its evenly cooked. You or garnish it with them. Serve Baingan Bharta with phulkas, rotis or chapatis.",
         "foodRanking": 9.5,
         "ingredients": ["spinach", "paneer", "spices", "onion", "tomatoes"]
       },
       {
         "recipeName": "Aloo Gobi",
-        "cookingMethod": "Stovetop",
+        "recipesImage": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/roasted-aloo-gobi-b125826.jpg",
+        "cookingMethod": "Heat the olive oil in a heavy-based pan and add the onion and carrot. Cook for 3- 4 mins until softened. Add the diced lamb and brown all over. Stir in the garlic and all the spices and cook for a few mins more or until the aromas are released. Add the honey and apricots, crumble in the stock cube and pour over roughly 500ml boiling water or.",
         "foodRanking": 8.9,
         "ingredients": [
           "potatoes",
@@ -89,7 +97,8 @@
       },
       {
         "recipeName": "Gulab Jamun",
-        "cookingMethod": "Frying",
+        "recipesImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9GPzOA2VGgLw0qHwnFIhc_P2vs6d-9LcdKg&usqp=CAU",
+        "cookingMethod": "Melt the butter in a skillet or pan. When melted, add the flour little by little and stir into a thick paste. Slowly stir in the stock, making sure the roux absorbs the liquid. Simmer for a couple of minutes on a low heat while you stir in the onion, parsley and the shredded meat. The mixture should thicken and turn into a heavy, thick sauce. Pour the mixture.",
         "foodRanking": 9.1,
         "ingredients": [
           "milk powder",
@@ -105,7 +114,7 @@
     "id": "CHEF4",
     "name": "Madhur Jaffrey",
     "bannerUrl": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "profileUrl": "https://example.com/madhur-profile.jpg",
+    "profileUrl": "https://images.pexels.com/photos/4252137/pexels-photo-4252137.jpeg?auto=compress&cs=tinysrgb&w=600",
     "likes": 1500,
     "experienceYears": 40,
     "shortBio": "Award-winning actress, cookbook author, and television personality.",
@@ -113,19 +122,22 @@
     "recipes": [
       {
         "recipeName": "Chana Masala",
-        "cookingMethod": "Stovetop",
+        "recipesImage": "https://spicecravings.com/wp-content/uploads/2022/05/Chana-Masala-Featured.jpg",
+        "cookingMethod": "Grease and line a 20 x 20cm/8 baking tin with parchment paper. Put the mars bars and butter in a heat proof bowl and place over a pan of barely simmering water. Mixing with a whisk, melt until the mixture is smooth. Pour baking tin and set aside. Melt the milk chocolate in the microwave or over a pan of barely simmering water. Spread the.",
         "foodRanking": 9.6,
         "ingredients": ["chickpeas", "spices", "onion", "tomatoes"]
       },
       {
         "recipeName": "Vindaloo",
-        "cookingMethod": "Stovetop",
+        "recipesImage": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/11/lamb-vindaloo-recipe.jpg",
+        "cookingMethod": " Melt the butter in a skillet or pan. When melted, add the flour little by little and stir into a thick paste. Slowly stir in the stock, making sure the roux absorbs the liquid. Simmer for a couple of minutes on a low heat while you stir in the onion, parsley and the shredded meat. The mixture should thicken and turn into a heavy, thick sauce. Pour the mixture.",
         "foodRanking": 8.7,
         "ingredients": ["pork", "spices", "vinegar", "garlic", "ginger"]
       },
       {
         "recipeName": "Gajar Halwa",
-        "cookingMethod": "Stovetop",
+        "recipesImage": "https://www.chilitochoc.com/wp-content/uploads/2022/11/easy-gajar-halwa-with-almonds-pistachios.jpg",
+        "cookingMethod": "Rinse the baingan (eggplant or aubergine) in water. Pat dry with a kitchen napkin. Apply some oil all over and keep it for roasting on an open flame. You can also grill the baingan or roast in the oven. But then you won't get the smoky flavor of the baingan. Keep the eggplant turning after a 2 to 3 minutes on the flame, so that its evenly cooked. You",
         "foodRanking": 9.2,
         "ingredients": ["carrots", "milk", "sugar", "cardamom", "nuts"]
       }
@@ -135,7 +147,7 @@
     "id": "CHEF5",
     "name": "Vikas Khanna",
     "bannerUrl": "https://images.pexels.com/photos/958546/pexels-photo-958546.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "profileUrl": "https://example.com/vikas-profile.jpg",
+    "profileUrl": "https://img.freepik.com/free-photo/male-cook-standing-kitchen-presenting-delicious-dish_23-2147863798.jpg?w=740&t=st=1683286853~exp=1683287453~hmac=d600e8b830f8028f00dff2f2bbd8010e21ca2dba72c2ce047237fa6489ea179e",
     "likes": 3100,
     "experienceYears": 20,
     "shortBio": "Michelin-starred chef and restaurateur known for his fusion cuisine.",
@@ -143,19 +155,22 @@
     "recipes": [
       {
         "recipeName": "Chicken Curry",
-        "cookingMethod": "Stovetop",
+        "recipesImage": "https://www.allrecipes.com/thmb/FL-xnyAllLyHcKdkjUZkotVlHR8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/46822-indian-chicken-curry-ii-DDMFS-4x3-39160aaa95674ee395b9d4609e3b0988.jpg",
+        "cookingMethod": "Grease and line a 20 x 20cm/8 baking tin with parchment paper. Put the mars bars and butter in a heat proof bowl and place over a pan of barely simmering water. Mixing with a whisk,  chocolate in the microwave or over a pan of barely simmering water. Spread the melted chocolate over the rice krispie mixture and leave to set in a cool place.",
         "foodRanking": 9.2,
         "ingredients": ["chicken", "onion", "tomato", "spices", "coconut milk"]
       },
       {
         "recipeName": "Samosas",
-        "cookingMethod": "Frying",
+        "recipesImage": "https://www.recipetineats.com/wp-content/uploads/2021/02/Samosas-on-plate-SQ.jpg",
+        "cookingMethod": "Melt the butter in a skillet or pan. When melted, add the flour little by little and stir into a thick paste. Slowly stir in the stock, making sure the roux absorbs the liquid. cover and refrigerate for several hours, or until the sauce has solidified. Take a heaping tablespoon of the cold, thick sauce and quickly roll it into a small ball. ",
         "foodRanking": 8.5,
         "ingredients": ["potatoes", "peas", "spices", "flour", "oil"]
       },
       {
         "recipeName": "Gulab Jamun",
-        "cookingMethod": "Frying",
+        "recipesImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9GPzOA2VGgLw0qHwnFIhc_P2vs6d-9LcdKg&usqp=CAU",
+        "cookingMethod": " Heat the olive oil in a heavy-based pan and add the onion and carrot. Cook for 3- 4 mins until softened. Add the diced lamb and brown all over. Stir in the garlic and all the spices and cook for a few mins more or until the aromas are released. Add the honey and apricots, crumble in the stock cube and pour over roughly 500ml boiling water or.",
         "foodRanking": 9,
         "ingredients": [
           "milk powder",
@@ -171,7 +186,7 @@
     "id": "CHEF6",
     "name": "Tarla Dalal",
     "bannerUrl": "https://images.pexels.com/photos/1600711/pexels-photo-1600711.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "profileUrl": "https://example.com/tarla-profile.jpg",
+    "profileUrl": "https://images.pexels.com/photos/8477419/pexels-photo-8477419.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "likes": 4800,
     "experienceYears": 40,
     "shortBio": "Pioneer of vegetarian Indian cooking and author of over 100 cookbooks.",
@@ -179,13 +194,15 @@
     "recipes": [
       {
         "recipeName": "Palak Paneer",
-        "cookingMethod": "Stovetop",
+        "recipesImage": "https://static.toiimg.com/thumb/53098531.cms?imgsize=246555&width=800&height=800",
+        "cookingMethod": "Melt the butter in a skillet or pan. When melted, add the flour little by little and stir into a thick paste. Slowly stir in the stock, making sure the roux absorbs the liquid. Simmer for a coup refrigerate for several hours, or until the sauce has solidified. Take a heaping tablespoon of the cold, thick sauce and quickly roll it into a small.",
         "foodRanking": 9.4,
         "ingredients": ["spinach", "paneer", "spices", "tomato", "cream"]
       },
       {
         "recipeName": "Aloo Gobi",
-        "cookingMethod": "Stovetop",
+        "recipesImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbH4wfwS6ghZ7jM1VaMN5b_vWOIu9A91zOQ&usqp=CAU",
+        "cookingMethod": "Grease and line a 20 x 20cm/8 baking tin with parchment paper. Put the mars bars and butter in a heat proof bowl and place over a pan of barely simmering water. Mixing with a whisk, melt until the mixture is smoote or over a pan of barely simmering water. Spread the melted chocolate over the rice krispie mixture and leave to set in a cool place.",
         "foodRanking": 8.7,
         "ingredients": [
           "potatoes",
@@ -197,7 +214,8 @@
       },
       {
         "recipeName": "Raita",
-        "cookingMethod": "Mixing",
+        "recipesImage": "https://www.feastingathome.com/wp-content/uploads/2019/05/Raita-Recipe-100-3.jpg",
+        "cookingMethod": " Heat the olive oil in a heavy-based pan and add the onion and carrot. Cook for 3- 4 mins until softened. Add the diced lamb and brown all over. Stir in the garlic and all the spices and cook for a few mins more or until the aromas are released. Add the honey and apricots, crumble in the stock cube and pour over roughly 500ml boiling water or.",
         "foodRanking": 8.9,
         "ingredients": ["yogurt", "cucumber", "mint", "coriander", "spices"]
       }
