@@ -14,6 +14,7 @@ app.get("/information", (req, res) => {
   res.send(information);
 });
 
+
 app.get("/information/:id", (req, res) => {
   const id = req.params.id;
   console.log(id);
